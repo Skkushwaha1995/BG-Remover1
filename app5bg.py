@@ -51,7 +51,7 @@ def process_images(files, base, size, replace_bg, bg_color):
 
 # ——— Streamlit UI ——— #
 
-st.title("🖼️ Background Remover (Files & URLs)")
+st.title("🖼️ Background Remover")
 
 # —— FILE UPLOAD —— #
 st.subheader("📁 Upload Images from Your Computer")
